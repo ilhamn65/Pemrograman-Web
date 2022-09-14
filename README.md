@@ -1,5 +1,5 @@
 # Pengembangan Beroritentasi Penggunaan Ulang
-<h4> Kelompok 1 : </h4>
+<h4> Kelompok : </h4>
 <ul>
 	<li>205150401111020 MUHAMMAD DAVALA SAFA</li>
     <li>205150401111025 MOHAMMAD KEVIN ABDILLAH</li>
